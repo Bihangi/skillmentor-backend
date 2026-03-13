@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a09270b-8b48-4891-8991-7834ae9ee140" name="Changes" comment="" />
+    <list default="true" id="6a09270b-8b48-4891-8991-7834ae9ee140" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/skillmentor/SkillMentorApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/skillmentor/SkillMentorApplication.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -23,7 +28,9 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "Spring Boot.SkillMentorApplication.executor": "Run",
+    "git-widget-placeholder": "dev",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/HP/IdeaProjects/SkillMentor"
   }
