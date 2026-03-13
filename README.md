@@ -167,10 +167,10 @@ See `backend/SETUP_GUIDE.md` for detailed backend configuration.
 
 ## Deployed Links
 
-- **Frontend**: _[Add your Vercel URL here]_
+- **Frontend**: (https://skillmentor-frontend-chi.vercel.app/)
 - **Backend API**: (https://skillmentor-backend-l0gf.onrender.com)
 
 ## Repository Links
 
-- **Frontend**: _[Add your Vercel URL here]_
-- **Backend**: (https://github.com/Bihangi/skillmentor-backend/)
+- **Frontend**:(https://github.com/Bihangi/skillmentor-frontend.git)
+- **Backend**: (https://github.com/Bihangi/skillmentor-backend.git)
